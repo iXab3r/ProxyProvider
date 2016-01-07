@@ -8,7 +8,7 @@ using RestEase;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("ProxyProvider")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Couple of proxy providers from different sources. Sources: https://github.com/iXab3r/ProxyProvider")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("ProxyProvider")]
